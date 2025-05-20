@@ -4,6 +4,7 @@ transformers==4.11.3
 gtts==2.2.3
 Pillow==8.0.1
 requests==2.28.1
+python==3.10.0
 streamlit
 torch
 transformers
