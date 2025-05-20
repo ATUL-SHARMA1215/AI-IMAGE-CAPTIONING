@@ -12,9 +12,8 @@ A web app built with Streamlit that generates captions for uploaded images using
 ## 🔧 Installation
 
 1. Clone the repo:
-```bash
-git clone https://github.com/your-username/image-captioning-app.git
-cd image-captioning-app
+https://github.com/ATUL-SHARMA1215/AI-IMAGE-CAPTIONING/edit/main/README.md.txt#L17C23
+
 
 2. pip install -r requirements.txt
 
