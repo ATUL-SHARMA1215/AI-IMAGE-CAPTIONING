@@ -1,32 +1,6 @@
-# Streamlit for the web interface
-streamlit==1.22.0
-
-# PyTorch (CPU version)
-torch==2.5.0+cpu  # or you can use torch==2.6.0+cpu depending on your preference
-
-# Huggingface Transformers for AI models
-transformers==4.30.0
-
-# Pillow for image processing
-Pillow==9.3.0
-
-# scikit-image for image transformations
-scikit-image==0.19.3
-
-# numpy for numerical operations
-numpy==1.24.2
-
-# matplotlib for visualizations
-matplotlib==3.7.1
-
-# rich for enhanced exception logging in streamlit
-rich==14.0.0
-
-# markdown-it-py for markdown parsing
-markdown-it-py==3.0.0
-
-# pygments for syntax highlighting
-pygments==2.19.1
-
-# mdurl for URL parsing
-mdurl==0.1.2
+streamlit==1.18.0
+torch==1.13.0
+transformers==4.11.3
+gtts==2.2.3
+Pillow==8.0.1
+requests==2.28.1
