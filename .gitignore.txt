@@ -1,8 +1,0 @@
-__pycache__/
-*.py[cod]
-*.mp3
-*.zip
-*.tmp
-venv/
-.env
-.DS_Store
