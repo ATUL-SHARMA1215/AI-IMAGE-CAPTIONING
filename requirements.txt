@@ -5,3 +5,6 @@ Pillow
 gTTS
 sentencepiece
 huggingface-hub
+numpy
+scipy
+requests
