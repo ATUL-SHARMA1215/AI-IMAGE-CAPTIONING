@@ -1,6 +1,6 @@
 streamlit==1.22.0
 transformers==4.30.0
-torch==2.1.0
+torch==2.7.0
 Pillow==9.4.0
 gtts==2.3.1
 zipfile36==0.1.3
