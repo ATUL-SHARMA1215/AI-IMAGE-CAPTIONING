@@ -1,5 +1,5 @@
 streamlit==1.18.0
-torch==2.5.0+cpu
+torch==1.13.1+cpu --find-links https://download.pytorch.org/whl/cpu/
 transformers==4.11.3
 gtts==2.2.3
 Pillow==8.0.1
