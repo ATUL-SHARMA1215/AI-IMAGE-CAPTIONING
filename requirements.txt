@@ -1,8 +1,5 @@
 streamlit>=1.24.0
-transformers>=4.30.0
-torch>=2.0.0
+transformers==4.37.0
+torch==2.1.2
 Pillow>=9.0.0
 gTTS>=2.3.2
-transformers==4.41.2
-torch==2.3.0
-streamlit==1.35.0
