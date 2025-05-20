@@ -30,5 +30,3 @@ pygments==2.19.1
 
 # mdurl for URL parsing
 mdurl==0.1.2
-
-
