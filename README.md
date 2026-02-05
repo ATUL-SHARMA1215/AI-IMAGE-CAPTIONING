@@ -31,5 +31,13 @@ This project implements an AI-based Image Captioning application using the **BLI
 - Modular Python code for inference and UI separation
 
 ---
+---
 
+## ▶️ How to Run
+
+```bash
+git clone https://github.com/ATUL-SHARMA1215/AI-IMAGE-CAPTIONING
+cd AI-IMAGE-CAPTIONING
+pip install -r requirements.txt
+streamlit run app.py
 
