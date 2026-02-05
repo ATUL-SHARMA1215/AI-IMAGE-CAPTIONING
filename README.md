@@ -33,6 +33,12 @@ This project implements an AI-based Image Captioning application using the **BLI
 ---
 ---
 
+## 🗂️ Project Structure
+AI-IMAGE-CAPTIONING/ │── app.py              # Streamlit user interface │── utils.py            # Caption generation and audio logic │── requirements.txt │── README.md
+
+---
+---
+
 ## ▶️ How to Run
 
 ```bash
