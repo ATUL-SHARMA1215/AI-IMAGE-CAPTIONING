@@ -41,3 +41,13 @@ cd AI-IMAGE-CAPTIONING
 pip install -r requirements.txt
 streamlit run app.py
 
+---
+---
+
+How It Works ??
+• Image is uploaded through Streamlit UI
+• Image is preprocessed using Pillow
+• BLIP model generates caption using PyTorch inference
+• Caption is converted to speech using gTTS
+• User can download results in multiple formats
+
