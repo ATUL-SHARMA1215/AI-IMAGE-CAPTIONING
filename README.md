@@ -44,10 +44,18 @@ streamlit run app.py
 ---
 ---
 
-How It Works ??
+##How It Works ??
 • Image is uploaded through Streamlit UI
 • Image is preprocessed using Pillow
 • BLIP model generates caption using PyTorch inference
 • Caption is converted to speech using gTTS
 • User can download results in multiple formats
 
+---
+---
+
+##Testing & Debugging Performed
+•Tested with multiple image formats and sizes
+•Debugged tensor conversion and preprocessing issues
+•Validated caption generation on diverse real-world images
+•Separated inference logic from UI for easier debugging
