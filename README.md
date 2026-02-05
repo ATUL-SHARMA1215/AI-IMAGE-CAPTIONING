@@ -59,3 +59,21 @@ streamlit run app.py
 •Debugged tensor conversion and preprocessing issues
 •Validated caption generation on diverse real-world images
 •Separated inference logic from UI for easier debugging
+
+---
+---
+
+##Example
+Input: Image of a dog running in a field
+Output Caption: "A dog running through a grassy field."
+
+
+---
+---
+
+##Learning Outcomes
+•Working with vision-language transformer models
+•Handling image preprocessing for deep learning inference
+•Structuring Python code for modularity and testing
+•Building interactive ML applications with Streamlit
+•Debugging model inference and preprocessing logic
